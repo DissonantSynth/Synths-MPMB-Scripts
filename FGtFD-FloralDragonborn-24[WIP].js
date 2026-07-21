@@ -2,6 +2,7 @@ var iFileName = "FGtFD-FloralDragonborn-24.js";
 RequiredSheetVersion("24.0.0", "24.1.0");
 
 /*
+   NB: UNFINISHED
    The Floral Dragonborn race is included in "The Field Guide to Floral Dragons: Floral Dragonborns" for D&D 5e.
    FGtFD and the Floral Dragonborn race are created and copyrighted by Hit Point Press Inc and Verity Lane.
    Website: https://floraldragons.com/
